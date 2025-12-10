@@ -7,8 +7,7 @@ Comprehensive reference for working with Telegram gifts
 ## Useful Links
 - [Telegram Gifts on Dune](https://dune.com/rdmcd/telegram-gifts)
 - [GiftStat.com](https://giftstat.com/)
-- [Gift Rates Bot](https://t.me/GiftRatesBot)
-- [Gift Charts Bot](https://t.me/gift_charts_bot)
+- [Gift Charts Bot (giftcharts.com)](https://t.me/gift_charts_bot)
 - [Peek.tg Bot](https://t.me/peektgbot)
 - [Gift Chart Stickers](https://t.me/addstickers/stickers_by_GiftRatesBot)
 - [Floor Price Stickers](https://t.me/addstickers/gift_by_tondesignrobot)
